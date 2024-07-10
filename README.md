@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh6OTdzNnV5cGJuNG1peWp4NGR5dGJ6dG03cWlrcGFhOWNzcHRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.fiverr.com/artiksk)">
+  <a href="https://www.fiverr.com/artiksk">
     <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
 </div>
