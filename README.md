@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 My name is Artik, and I'm a backend developer specializing in Python. Here's some information about me:
 
