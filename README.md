@@ -20,7 +20,7 @@
 
 ---
 
-## :man_technologist: About Me :
+### :man_technologist: About Me :
 
 My name is Artik, and I'm a backend developer specializing in Python. Here's some information about me:
 
@@ -29,5 +29,6 @@ My name is Artik, and I'm a backend developer specializing in Python. Here's som
 - :rocket: Now I'm studying the technical aspects of blockchains especially TON
 - :zap: In my free time, I work on my own projects.
 
-## How to reach me:
-- LinkedIn: !Linkedin Badge
+---
+
+### :hammer_and_wrench: Languages and Tools :
