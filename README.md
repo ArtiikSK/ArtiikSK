@@ -17,3 +17,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArtiikSK&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :woman_technologist: About Me :
