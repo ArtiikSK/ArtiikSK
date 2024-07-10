@@ -6,4 +6,7 @@
   <a href="https://www.fiverr.com/artiksk">
     <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
+  <a href="https://t.me/ArtiikSK">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Fiverr Badge"/>
+  </a>
 </div>
