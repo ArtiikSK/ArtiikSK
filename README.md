@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
   <a href="https://t.me/ArtiikSK">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Fiverr Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/PornHub-orange?logo=JAVASCRIPT&logoColor=white" alt="PornHub Badge"/>
   </a>
 </div>
