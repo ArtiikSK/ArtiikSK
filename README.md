@@ -12,4 +12,5 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/PornHub-orange?logo=JAVASCRIPT&logoColor=white" alt="PornHub Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ArtiikSK&style=flat-square&color=blue" alt=""/>
 </div>
