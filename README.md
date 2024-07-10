@@ -24,10 +24,9 @@
 
 My name is Artik, and I'm a backend developer specializing in Python. Here's some information about me:
 
-- :computer: I work as a software engineer, contributing to both frontend and backend development for web applications.
-- :rocket: In my free time, I work on my own projects.
-- :seedling: I explore technical content writing.
-- :zap: I solve problems on GeeksforGeeks and read tech articles.
+- :computer: I work as a software engineer, contributing to backend development for web applications.
+- :seedling: Now I'm studying the technical aspects of blockchains especially TON
+- :zap: In my free time, I work on my own projects.
 
 ## How to reach me:
 - LinkedIn: !Linkedin Badge
