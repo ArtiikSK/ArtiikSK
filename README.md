@@ -4,6 +4,6 @@
 </div>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.fiverr.com/artiksk)">
-    <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white&style=for-the-badge" alt="Fiverr Badge"/>
+    <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
 </div>
